@@ -4,7 +4,7 @@
 
 matplotlib>=3.2.2
 numpy>=1.18.5
-opencv-python>=4.1.2
+opencv-python-headless>=4.1.2
 Pillow>=7.1.2
 PyYAML>=5.3.1
 requests>=2.23.0
@@ -35,4 +35,3 @@ flake8
 yapf
 isort==4.3.21
 imageio
-opencv-python-headless
