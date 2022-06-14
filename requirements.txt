@@ -35,3 +35,4 @@ flake8
 yapf
 isort==4.3.21
 imageio
+opencv-python-headless
